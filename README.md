@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
@@ -19,8 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/vtu27594-bit/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
